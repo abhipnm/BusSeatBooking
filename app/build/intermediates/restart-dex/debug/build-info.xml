@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="1"
+    format="7"
+    timestamp="235175720324555"
+    token="-6856237863988932711" >
+
+    <task
+        name="javac"
+        duration="57322" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2830" />
+    <task
+        name="verifier"
+        duration="712" />
+
+    <artifact
+        location="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="235175720324555" >
+        <artifact
+            location="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

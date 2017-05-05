@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/local_bus_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_local_bus_drawable_" >
+
+        <TextView
+            android:id="@+id/localbus_text_title"
+            style="@style/TextAppearance.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/title_LBusTicket"
+            android:textColor="@color/white" />
+
+        <EditText
+            android:id="@+id/localbus_edit_text_sender"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/localbus_text_title"
+            android:layout_margin="10dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/username"
+            android:hint="@string/hintName_enterMobileNo"
+            android:inputType="number"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/localbusedit_text_amount"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/localbus_edit_text_sender"
+            android:layout_margin="10dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/money"
+            android:hint="@string/hintName_amount"
+            android:inputType="numberSigned"
+            android:paddingLeft="8dp"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/localbusedit_text_MpIN"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/localbusedit_text_amount"
+            android:layout_margin="10dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_mpin"
+            android:inputType="numberPassword"
+            android:maxLength="4"
+            android:paddingLeft="8dp"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/localbus_button_Submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/localbusedit_text_MpIN"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/button_notmal"
+            android:padding="10dp"
+            android:text="@string/btnSubmit"
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:layout_below="@+id/localbus_button_Submit" />
+    </RelativeLayout>
+
+</RelativeLayout>

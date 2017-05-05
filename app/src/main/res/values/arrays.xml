@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="HomeScreentemName">
+        <item>PAY to</item>
+        <item>Pay to witoutId</item>
+        <item>Bus / train / ferry </item>
+        <item>InterCity Bus </item>
+        <item>Parking/Toll/Entrance</item>
+        <item>Bonus Point</item>
+        <item>Discount Money</item>
+        <item>Topup</item>
+        <item>Lottery</item>
+        <item>Agents</item>
+    </string-array>
+    <string-array name="transationTypelList">
+        <item>Please select Transation Type</item>
+        <item>credit</item>
+        <item>Ticket</item>
+        <item>Toll</item>
+        <item>Debit</item>
+    </string-array>
+    <string-array name="homescreen_bg">
+        <item>@drawable/bg_money_transfer_drawable_</item>
+        <item>@drawable/bg_lottery_drawable_</item>
+        <item>@drawable/bg_local_bus_drawable_</item>
+        <item>@drawable/bg_intercity_bus_drawable_</item>
+        <item>@drawable/bg_bill_payment_drawable_</item>
+        <item>@drawable/bg_cash_out_drawable_</item>
+        <item>@drawable/bg_change_pin_drawable_</item>
+        <item>@drawable/bg_help_drawable_</item>
+        <item>@drawable/bg_check_balance_drawable_</item>
+        <item>@drawable/bg_send_money_drawable_</item>
+    </string-array>
+    <string-array name="home_screen_item_icon">
+        <item>@drawable/moneytransfer_icon</item>
+        <item>@drawable/checkbalance_icon</item>
+        <item>@drawable/local</item>
+        <item>@drawable/intercity</item>
+        <item>@drawable/billpayment_icon</item>
+        <item>@drawable/lottery</item>
+        <item>@drawable/help</item>
+        <item>@drawable/money_</item>
+        <item>@drawable/cashout_</item>
+        <item>@drawable/sendmoney</item>
+    </string-array>
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Check Balance</item>
+        <item>Change Password</item>
+        <item>Change Language</item>
+        <item>History</item>
+        <item>Change Profile</item>
+        <item>Help Line</item>
+        <item>Online update</item>
+        <item>About Us</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+        <item>@drawable/home</item>
+    </array>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_4ea38563d569edb33f1c9f0c393309159270856d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_776a9aaff84793259aee33488dd42216ca73a67e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6a16f23a390414c22571f5c205ecc1fc4f6e7fce">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\instant-run_832e60fdd973dc642f690dc3f5702c105aad370c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_655c658d4f395dd18486ad37f56123d25bdd1786.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_f813a2b1b22f90f963905f66840abd1463317ef2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="e5be294e6b766e96664a4f654329a6af79f2f887">
+        <dex dex="C:\Users\Lenovo\Desktop\BusSeatBooking2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cb6ff7557c7fa7da502ac1848a6eb32701580646.jar" />
+    </item>
+
+</items>

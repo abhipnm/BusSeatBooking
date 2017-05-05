@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_long_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_long_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radioactive.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\radioactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\date_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\date_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\red_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\red_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\right_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\right_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkbox.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\city1_bg.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\city1_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_long_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_long_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\middle_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\middle_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mastercard_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\mastercard_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\location_a.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\location_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ticket_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\ticket_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\user_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_tall_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_tall_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_pending.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\overflow_white.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\overflow_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\header_bg.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\header_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\three_digitcvv.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\three_digitcvv.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\return_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\return_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\visa_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\visa_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_day.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_day.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\black_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\black_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_date.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\amex_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\amex_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\male.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\black_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\black_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\location_b.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\location_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\filter_travels_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\filter_travels_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_cancelled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_cancelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\paper_clip.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\paper_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dateleft_selected.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\dateleft_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\female.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\filter_boarding_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\filter_boarding_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\date_selected.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\date_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\zero_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\zero_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cross_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\m_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\m_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\splash.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\red_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\red_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_nor_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_nor_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clear_edit_text.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\clear_edit_text.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\radio.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\radio.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\city2_bg.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\city2_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\black_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\black_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_gold_full.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\star_gold_full.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\date_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\date_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\enter_cvv.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\enter_cvv.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fastpay_logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\fastpay_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\amex_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\amex_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\m_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\m_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\filter_boarding_applied.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\filter_boarding_applied.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\filter_travels_applied.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\filter_travels_applied.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_dayleft.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_dayleft.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\boarding.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\boarding.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\travels.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\travels.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_red_full.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\star_red_full.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_tall_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_tall_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\right_arrow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_tall_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_tall_lad_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\m_button_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\m_button_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\steering_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\steering_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\red_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\red_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_empty.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\star_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\clock.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mail_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\mail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\left_arrow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\appicon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkboxed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\checkboxed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_nor_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_nor_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ratingbar_gold.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\ratingbar_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calander_background.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\calander_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_long_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_long_lad_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\left_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\left_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pin_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\pin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkbox_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\checkbox_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\visa_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\visa_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\m_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\m_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cross_white.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\cross_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\swap.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\swap.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bus.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\support_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\support_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mastercard_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\mastercard_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ratingbar_red.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\ratingbar_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_red_half.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\star_red_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\right_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\right_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_confirmed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_long_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_long_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dateleft_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\dateleft_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\location.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkbox_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\checkbox_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_attention.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg_attention.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\middle_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\middle_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg320.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\bg320.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\left_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\left_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_tall_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_tall_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\dateleft_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\dateleft_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sorting_shadow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\sorting_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calendar.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\star_gold_half.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\star_gold_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lock_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\redbus_logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\redbus_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_nor_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_nor_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\seat_layout_screen_nor_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-ldpi\\seat_layout_screen_nor_lad_avl.png"
+    }
+]

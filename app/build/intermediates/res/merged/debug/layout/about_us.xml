@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/about_us"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/aboutus"
+        android:isScrollContainer="true"
+        android:textColor="@color/white"
+        style="@style/TextAppearance.Large"
+        android:layout_margin="10dp" />
+
+</LinearLayout>

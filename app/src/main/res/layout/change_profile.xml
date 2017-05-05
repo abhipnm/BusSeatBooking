@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/change_profile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_check_balance_drawable_" >
+
+        <TextView
+            android:id="@+id/change_profile_ttitle"
+            style="@style/TextAppearance.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="@string/title_ChangeProfile"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/change_profile_textview_description"
+            style="@style/TextAppearance.Medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_profile_ttitle"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="@string/title_selectOption"
+            android:textColor="@color/white" />
+
+        <RadioGroup
+            android:id="@+id/change_profile_radio_group"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_profile_textview_description"
+            android:layout_margin="10dp"
+            android:orientation="vertical" >
+
+            <RadioButton
+                android:id="@+id/change_profile_radio_button_name"
+                style="@style/TextAppearance.Large"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_Name" />
+
+            <RadioButton
+                android:id="@+id/change_profile_radio_button_IdProof"
+                style="@style/TextAppearance.Large"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_NRC_Passport" />
+
+            <RadioButton
+                android:id="@+id/change_profile_radio_button_mobileN"
+                style="@style/TextAppearance.Large"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_MobileNo" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/change_profile_button_Submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_profile_radio_group"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/button_notmal"
+            android:padding="10dp"
+            android:text="@string/btnSubmit"
+            android:textColor="@color/black"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:layout_below="@+id/change_profile_button_Submit" />
+    </RelativeLayout>
+
+</RelativeLayout>

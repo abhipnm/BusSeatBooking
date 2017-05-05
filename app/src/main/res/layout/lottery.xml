@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/peer_to_peer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_lottery_drawable_" >
+
+        <TextView
+            android:id="@+id/lottery_text_title"
+            style="@style/TextAppearance.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:text="@string/title_lotery"
+            android:textColor="@color/black" />
+
+        <AutoCompleteTextView
+            android:id="@+id/lottery_edit_text_amount"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lottery_text_title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/money"
+            android:hint="@string/hintName_amount"
+            android:inputType="numberSigned"
+            android:paddingLeft="8dp" />
+
+        <EditText
+            android:id="@+id/lottery_date_edit_text_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lottery_edit_text_amount"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_date"
+            android:inputType="date"
+            android:textColor="@color/black"
+            android:paddingLeft="8dp" />
+
+        <EditText
+            android:id="@+id/lottery_edit_text_mpin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lottery_date_edit_text_date"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_mpin"
+            android:inputType="numberPassword"
+            android:maxLength="4"
+            android:paddingLeft="8dp"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/lottery_button_Submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lottery_edit_text_mpin"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/button_notmal"
+            android:padding="10dp"
+            android:text="@string/btnSubmit"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+
+</RelativeLayout>

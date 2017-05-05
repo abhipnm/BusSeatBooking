@@ -1,0 +1,1138 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\appicon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_pressed_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\three_digitcvv.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\three_digitcvv.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\red_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_nor_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_nor_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cross_white.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\cross_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mastercard_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\mastercard_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_grey_focused.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\paper_clip.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\paper_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bus.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_focused_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_default_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\microxlarge.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\microxlarge.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\overflow_white.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\overflow_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_tall_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_tall_lad_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\black_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\black_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\left_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_discard.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ab.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\m_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\visa_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\visa_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_boarding_applied.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\filter_boarding_applied.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\redbus_logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\redbus_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\textfield_activated_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radioactive.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\radioactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\star_red_full.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\star_red_full.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gplussignin_white_focus.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_gplussignin_white_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_pressed_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_nor_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_nor_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_disabled_focused_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cancel_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\boarding.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\boarding.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_tall_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_tall_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mastercard_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\mastercard_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\date_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_attention.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_attention.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clock.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_day.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_day.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\return_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\return_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkboxed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\checkboxed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_blue_normal.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\visa_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\visa_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_tall_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_tall_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\red_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_focused_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_confirmed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_date.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_date.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gplussignin_white_normal.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_gplussignin_white_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lock_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ticket_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ticket_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\textfield_default_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\red_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_long_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_long_lad_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\textfield_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_tall_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_tall_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_disabled_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fastpay_logo.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\fastpay_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_arrow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ratingbar_gold.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ratingbar_gold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auto_suggest_bubble.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\auto_suggest_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\left_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\right_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_arrow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amex_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\amex_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\support_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\support_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_focused_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\right_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_pending.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_blue_pressed.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\middle_button.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\middle_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amex_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\amex_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dateleft_selected.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\dateleft_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m_button_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\m_button_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_focused_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dateleft_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\dateleft_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notif_map.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\notif_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spinner_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\enter_cvv.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\enter_cvv.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ratingbar_red.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ratingbar_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wallettransfericon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\wallettransfericon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_pressed_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_focused_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_activated_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\list_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\black_button_focused.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\black_button_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_rb_actionbar.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_rb_actionbar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_disabled_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_nor_lad_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_nor_lad_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mail_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\mail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\date_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sorting_shadow.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\sorting_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\star_gold_half.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\star_gold_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gplussignin_white_pressed.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_gplussignin_white_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_travels_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\filter_travels_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_gplussignin_white_disabled.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_gplussignin_white_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\black_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\black_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\textfield_focused_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zero_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\zero_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\male.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\steering_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\steering_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\calendar.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_long_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_long_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\textfield_disabled_focused_holo_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mb.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\mb.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_grey_normal.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m_button_pressed.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\m_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_long_avl.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_long_avl.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_long_bkd.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_long_bkd.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_picker_magnifier.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cross_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m_button_normal.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\m_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_disabled_focused_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\radio.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\radio.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_b.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\location_b.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\female.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_boarding_disabled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\filter_boarding_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_selected.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\date_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\star_gold_full.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\star_gold_full.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_off_focused_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_off_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_grey_pressed.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_call.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\icon_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\location_a.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\location_a.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\star_red_half.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\star_red_half.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_splash.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\swap.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\swap.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dateleft_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\dateleft_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seat_layout_screen_nor_std.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\seat_layout_screen_nor_std.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\middle_button_active.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\middle_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_inverse_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_blue_focused.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_dayleft.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_dayleft.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_cancelled.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\bg_cancelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_radio_on_pressed_holo_light.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\btn_radio_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin_icon.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\pin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\star_empty.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\star_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Lenovo\\Desktop\\BusSeatBooking2\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal" >
+
+    <TextView 
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        style="@style/TextAppearance.Medium"
+        android:text="@string/sno"
+        android:paddingLeft="5dp"
+        android:textColor="@color/white"
+        android:gravity="center_vertical"
+        android:id="@+id/loyalty_textview_serialNo"
+        android:background="@drawable/border"
+        />
+
+    <TextView
+        android:id="@+id/loyalty_textview_merchant"
+        style="@style/TextAppearance.Medium"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/border"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:text="@string/sType"
+        android:lines="1"
+        android:maxLength="10"
+        android:textColor="@color/white" />
+
+    <TextView 
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        style="@style/TextAppearance.Medium"
+        android:text="@string/sAmount"
+        android:paddingLeft="5dp"
+        android:textColor="@color/white"
+        android:gravity="center_vertical"
+        android:id="@+id/loyalty_textview_amount"
+        android:background="@drawable/border"
+        />
+      <TextView 
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        style="@style/TextAppearance.Medium"
+        android:text="@string/sDate"
+        android:paddingLeft="5dp"
+        android:textColor="@color/white"
+        android:gravity="center_vertical"
+        android:id="@+id/history_textview_date"
+        android:background="@drawable/border"
+        />
+    
+</LinearLayout>

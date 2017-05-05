@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+    
+    <RelativeLayout 
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/check_loyalty"
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_check_balance_drawable_"
+        >
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/discount_money_titile"
+            style="@style/TextAppearance.ELarge"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="@string/title_discountmoney"
+            />
+        <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/discount_money_button_check"
+            android:layout_below="@+id/discount_money_titile"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="10dp"
+            android:padding="20dp"
+            android:text="@string/button_checkLoyalty"
+            android:background="@drawable/download_btn"
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/discount_money_button_check"
+            style="@style/TextAppearance.ELarge"
+            android:layout_centerHorizontal="true"
+            android:visibility="invisible"
+            android:text="@string/title_discountmoney"
+            />
+    </RelativeLayout>
+
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/discountmoney_textviewtitle"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/check_loyalty"
+        android:text="@string/sLoyaltyDiscount"
+        style="@style/TextAppearance.Large"
+        android:textColor="@color/white"
+        />
+    
+    <ListView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/discount_money_listview"
+        android:layout_below="@+id/discountmoney_textviewtitle"
+        
+        
+        ></ListView>
+</RelativeLayout>

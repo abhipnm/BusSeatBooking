@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/change_pin_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_check_balance_drawable_" >
+
+        <TextView
+            android:id="@+id/change_pin_text_title"
+            style="@style/TextAppearance.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:text="Change Pin"
+            android:textColor="@color/white" />
+
+        <AutoCompleteTextView
+            android:id="@+id/change_pin_edit_text_old"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/change_pin_text_title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_OldPin"
+            android:maxLength="4"
+            android:inputType="numberPassword"
+            android:paddingLeft="10dp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/change_pin_text_new"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_pin_edit_text_old"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_newPin"
+            android:maxLength="4"
+            android:textColor="@color/black"
+             android:inputType="numberPassword"
+            android:paddingLeft="8dp" />
+
+        <EditText
+            android:id="@+id/change_pin_edit_text_confirm"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_pin_text_new"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_confirmPin"
+            android:maxLength="4"
+            android:inputType="numberPassword"
+            android:paddingLeft="8dp" />
+
+        <Button
+            android:id="@+id/change_pin_button_Submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/change_pin_edit_text_confirm"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/button_notmal"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:text="@string/btnSubmit" />
+        
+         <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:layout_below="@+id/change_pin_button_Submit"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/cashout_relative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_cash_out_drawable_" >
+
+        <TextView
+            android:id="@+id/cashout_text_title"
+            style="@style/TextAppearance.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:text="@string/title_CashOut"
+            android:textColor="@color/black" />
+
+        
+        
+          <EditText
+            android:id="@+id/cashout_edit_text_countrycode"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/cashout_text_title"
+            android:layout_margin="10dp"
+            android:text="@string/hintName_fixedCoutrycode"
+            android:textColor="@color/black"
+            android:background="@drawable/esitbox_bg"
+            android:paddingLeft="10dp" />
+          <EditText
+            android:id="@+id/cashout_edit_text_number1"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/cashout_edit_text_countrycode"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cashout_text_title"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:hint="@string/hintName_AgentNo"
+            android:background="@drawable/esitbox_bg"
+            android:paddingLeft="10dp" />
+
+        <EditText
+            android:id="@+id/cashout_edit_text_mpin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cashout_edit_text_amount"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/password"
+            android:hint="@string/hintName_mpin"
+            android:maxLength="4"
+            android:inputType="numberPassword"
+            android:paddingLeft="8dp" />
+
+        <Button
+            android:id="@+id/money_transfer_button_Submit"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cashout_edit_text_mpin"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_notmal"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:text="@string/btnSubmit" />
+
+        <AutoCompleteTextView
+            android:id="@+id/cashout_edit_text_amount"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/cashout_edit_text_mpin"
+            android:layout_below="@+id/cashout_edit_text_countrycode"
+            android:background="@drawable/esitbox_bg"
+            android:drawableLeft="@drawable/money"
+            android:ems="10"
+            android:textColor="@color/black"
+            android:hint="@string/hintName_amount"
+            android:inputType="numberSigned"
+            android:paddingLeft="8dp" >
+
+            <requestFocus />
+        </AutoCompleteTextView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

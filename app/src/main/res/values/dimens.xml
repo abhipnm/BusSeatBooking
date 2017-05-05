@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tabscale">18.0sp</dimen>
+    <dimen name="small_text">11.0sp</dimen>
+    <dimen name="size_editext">40.0dip</dimen>
+    <dimen name="margintop">7.0dip</dimen>
+    <dimen name="textheading">12.0sp</dimen>
+    
+    <!-- Bus Ticketing Dimensions -->
+    <dimen name="padding_medium">8.0dip</dimen>
+    
+    <!-- Seat Selection Row GridView Dimensions -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    
+</resources>
